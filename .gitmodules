@@ -4,3 +4,6 @@
 [submodule "zhouKelly"]
 	path = zhouKelly
 	url = https://github.com/KellyZhou223/zhouKelly
+[submodule "siuVictor"]
+	path = siuVictor
+	url = git@github.com:vs2961/02_vars_vs.git

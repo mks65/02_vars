@@ -7,3 +7,6 @@
 [submodule "siuVictor"]
 	path = siuVictor
 	url = git@github.com:vs2961/02_vars_vs.git
+[submodule "ku-benjetJeremy"]
+	path = ku-benjetJeremy
+	url = https://github.com/jku20/mk65_02_vars.git

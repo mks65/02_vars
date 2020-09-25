@@ -16,3 +16,6 @@
 [submodule "MaoMadelyn"]
 	path = MaoMadelyn
 	url = https://github.com/madelynxmao/work-test.git
+[submodule "jiangVincent"]
+	path = jiangVincent
+	url = https://github.com/vjiang10/work-test.git

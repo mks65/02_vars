@@ -22,3 +22,6 @@
 [submodule "hathawayMay"]
 	path = hathawayMay
 	url = https://github.com/mayhathaway/hathawayMay.git
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/02_vars_mkJ.git

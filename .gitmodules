@@ -1,5 +1,5 @@
-[submodule "hernandezCar"]
-	path = hernandezCar
+[submodule "hernandezcCar"]
+	path = hernandezcCar
 	url = git@github.com:KarlWithK/02_vars_mks.git
 [submodule "zhouKelly"]
 	path = zhouKelly

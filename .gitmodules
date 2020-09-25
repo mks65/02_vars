@@ -28,6 +28,3 @@
 [submodule "ahmedTahsin"]
 	path = ahmedTahsin
 	url = https://github.com/TahsinAhmed13/02_vars.git
-[submodule "sahaAbhijeet"]
-	path = sahaAbhijeet
-	url = https://github.com/AbhijeetSaha2142/02_vars.git

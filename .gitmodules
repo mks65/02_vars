@@ -25,3 +25,6 @@
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/02_vars_mkJ.git
+[submodule "ahmedTahsin"]
+	path = ahmedTahsin
+	url = https://github.com/TahsinAhmed13/02_vars.git

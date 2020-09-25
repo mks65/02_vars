@@ -36,7 +36,7 @@
 	url = https://github.com/Michael-Nath/MichaelNathVars.git
 [submodule "shenkerEthan"]
 	path = shenkerEthan
-	url = https://github.com/ethan-shenker/shenkerEthan.git
+	url = https://github.com/ethan-shenker/02_vars_systems.git
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/yeCul.git

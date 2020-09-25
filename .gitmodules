@@ -19,3 +19,6 @@
 [submodule "jiangVincent"]
 	path = jiangVincent
 	url = https://github.com/vjiang10/work-test.git
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/hathawayMay.git

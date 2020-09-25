@@ -10,3 +10,9 @@
 [submodule "ku-benjetJeremy"]
 	path = ku-benjetJeremy
 	url = https://github.com/jku20/mk65_02_vars.git
+[submodule "https:/github.com/mks65/02_vars.git"]
+	path = https:/github.com/mks65/02_vars.git
+	url = https://github.com/madelynxmao/work-test.git
+[submodule "MaoMadelyn"]
+	path = MaoMadelyn
+	url = https://github.com/madelynxmao/work-test.git

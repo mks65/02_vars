@@ -49,3 +49,6 @@
 [submodule "zhangAlex"]
 	path = zhangAlex
 	url = https://github.com/Kappachino-Latte/zhangAlex
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/zhangAle

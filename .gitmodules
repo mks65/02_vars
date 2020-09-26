@@ -43,9 +43,6 @@
 [submodule "yeGene"]
 	path = yeGene
 	url = https://github.com/Gene1212/02_vars.git
-[submodule "raoIva"]
-	path = raoIva
-	url = https://github.com/irao12/systems_02_vars.git
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/zhangAle

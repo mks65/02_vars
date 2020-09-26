@@ -31,9 +31,6 @@
 [submodule "sahaAbhijeet"]
 	path = sahaAbhijeet
 	url = https://github.com/AbhijeetSaha2142/02_vars
-[submodule "nathMichael"]
-	path = nathMichael
-	url = https://github.com/Michael-Nath/MichaelNathVars.git
 [submodule "shenkerEthan"]
 	path = shenkerEthan
 	url = https://github.com/ethan-shenker/02_vars_systems.git

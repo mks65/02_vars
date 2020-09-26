@@ -40,3 +40,6 @@
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/yeCul.git
+[submodule "yeGene"]
+	path = yeGene
+	url = https://github.com/Gene1212/02_vars.git

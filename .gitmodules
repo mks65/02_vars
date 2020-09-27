@@ -49,3 +49,6 @@
 [submodule "nathMichael"]
 	path = nathMichael
 	url = https://github.com/Michael-Nath/mnath_vars02.git
+[submodule "leeSteven"]
+	path = leeSteven
+	url = https://github.com/kevidgel/02_vars

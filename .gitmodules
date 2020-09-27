@@ -52,4 +52,7 @@
 [submodule "leeSteven"]
 	path = leeSteven
 	url = https://github.com/kevidgel/02_vars
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/SystemsRepo.git
 

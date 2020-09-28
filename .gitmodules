@@ -61,3 +61,6 @@
 [submodule "ahmedTah"]
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/02_vars.git
+[submodule "zhangDev"]
+	path = zhangDev
+	url = https://github.com/dzhang10/hw_02_vars.git

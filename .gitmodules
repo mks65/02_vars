@@ -35,5 +35,5 @@
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/02_vars.git
 [submodule "02_vars_vs"]
-	path = 02_vars_vs
+	path = siuVic
 	url = https://github.com/vs2961/02_vars_vs.git

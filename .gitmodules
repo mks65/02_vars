@@ -28,3 +28,6 @@
 [submodule "zhangJin"]
 	path = zhangJin
 	url = https://github.com/Jinzxc/02_vars_J.git
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/02_vars.git

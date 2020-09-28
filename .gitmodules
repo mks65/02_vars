@@ -46,3 +46,6 @@
 [submodule "liSun"]
 	path = liSun
 	url = https://github.com/sunnyli13/Work02.git
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/02_work.git

@@ -43,3 +43,6 @@
 [submodule "ku-benjetJer"]
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_02_vars.git
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work02.git

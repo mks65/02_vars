@@ -64,3 +64,6 @@
 [submodule "zhangDev"]
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_02_vars.git
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/02_vars_mks

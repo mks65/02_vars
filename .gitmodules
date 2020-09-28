@@ -1,9 +1,6 @@
 [submodule "hernandezCar"]
 	path = hernandezCar
 	url = https://github.com/KarlWithK/02_vars_mks.git
-[submodule "https:/github.com/mks65/02_vars.git"]
-	path = https:/github.com/mks65/02_vars.git
-	url = https://github.com/madelynxmao/work-test.git
 [submodule "hathawayMay"]
 	path = hathawayMay
 	url = https://github.com/mayhathaway/hathawayMay.git

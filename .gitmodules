@@ -31,3 +31,6 @@
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/02_vars.git
+[submodule "maoMad"]
+	path = maoMad
+	url = https://github.com/madelynxmao/02_vars_mks.git

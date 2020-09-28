@@ -22,3 +22,6 @@
 [submodule "vostrikovVla"]
 	path = vostrikovVla
 	url = https://github.com/villinoid/02_vars.git
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/work-test.git

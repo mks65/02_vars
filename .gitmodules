@@ -67,3 +67,6 @@
 [submodule "zhouKel"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/zhouKel
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/mnath_vars02.git

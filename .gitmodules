@@ -52,3 +52,6 @@
 [submodule "zhouKelly"]
 	path = zhouKelly
 	url = https://github.com/KellyZhou223/zhouKelly
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/02_vars.git

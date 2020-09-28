@@ -40,3 +40,6 @@
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/SystemsRepo.git
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk65_02_vars.git

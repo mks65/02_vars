@@ -49,9 +49,6 @@
 [submodule "zhaoGav"]
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw2.git
-[submodule "zhouKel"]
-	path = zhouKel
-	url = https://github.com/KellyZhou223/zhouKel
 [submodule "ahmedTah"]
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/02_vars.git
@@ -67,3 +64,6 @@
 [submodule "hirotaEis"]
 	path = hirotaEis
 	url = https://github.com/ei5uke/02_vars.git
+[submodule "zhouKel"]
+	path = zhouKel
+	url = https://github.com/KellyZhou223/zhouKel

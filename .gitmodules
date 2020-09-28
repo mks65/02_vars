@@ -67,3 +67,6 @@
 [submodule "zhouKel"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/zhouKel
+[submodule "siniscalcoFrancesco"]
+	path = siniscalcoFrancesco
+	url = https://github.com/NopeSiniscalco/02_vars_mks.git

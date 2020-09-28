@@ -10,9 +10,6 @@
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/yeCul.git
-[submodule "zhangAle"]
-	path = zhangAle
-	url = https://github.com/Kappachino-Latte/zhangAle
 [submodule "raoIva"]
 	path = raoIva
 	url = https://github.com/irao12/systems_02_vars.git
@@ -64,3 +61,6 @@
 [submodule "linLei"]
 	path = linLei
 	url = https://github.com/llin11/02_vars_mks
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/zhangAle

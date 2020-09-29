@@ -73,6 +73,21 @@
 [submodule "siniscalcoFra"]
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/02_vars_mks.git
+<<<<<<< HEAD
 [submodule "huMic"]
 	path = huMic
 	url = https://github.com/GuessHuIAm/homework
+=======
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/luRan.git
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-02_vars.git
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/02_Variables.git
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/ganHao.git
+>>>>>>> a39e9792036512e89313772f2f461782a5a15ca5

@@ -97,3 +97,6 @@
 [submodule "leeLuc"]
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/02_vars
+[submodule "hamzahMohammad"]
+	path = hamzahMohammad
+	url = https://github.com/ForestDweller014/02_vars

@@ -73,11 +73,9 @@
 [submodule "siniscalcoFra"]
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/02_vars_mks.git
-<<<<<<< HEAD
 [submodule "huMic"]
 	path = huMic
 	url = https://github.com/GuessHuIAm/homework
-=======
 [submodule "luRan"]
 	path = luRan
 	url = https://github.com/RandyLu0/luRan.git
@@ -90,4 +88,3 @@
 [submodule "ganHao"]
 	path = ganHao
 	url = https://github.com/haotianGan/ganHao.git
->>>>>>> a39e9792036512e89313772f2f461782a5a15ca5

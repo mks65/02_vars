@@ -76,3 +76,6 @@
 [submodule "luRan"]
 	path = luRan
 	url = https://github.com/RandyLu0/luRan.git
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-02_vars.git

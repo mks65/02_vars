@@ -82,3 +82,6 @@
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/02_Variables.git
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/ganHao.git

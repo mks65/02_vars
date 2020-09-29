@@ -73,3 +73,6 @@
 [submodule "siniscalcoFra"]
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/02_vars_mks.git
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/homework

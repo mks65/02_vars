@@ -79,3 +79,6 @@
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-02_vars.git
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/02_Variables.git

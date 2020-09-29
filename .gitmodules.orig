@@ -91,9 +91,12 @@
 [submodule "shenkerEth"]
 	path = shenkerEth
 	url = https://github.com/ethan-shenker/02_vars_systems.git
+<<<<<<< HEAD
 [submodule "chanSer"]
 	path = chanSer
 	url = https://github.com/schan11/chanSer.git
+=======
 [submodule "leeLuc"]
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/02_vars
+>>>>>>> 5d0a23a08b23b00206d7b6969b9b2dce7cdaf982

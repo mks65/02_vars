@@ -106,3 +106,9 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/02_vars
+[submodule "chaSubhan"]
+	path = chaSubhan
+	url = https://github.com/SubhanChahal/chahalSub.git
+[submodule "chahalSub"]
+	path = chahalSub
+	url = https://github.com/SubhanChahal/chahalSub.git

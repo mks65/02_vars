@@ -97,9 +97,6 @@
 [submodule "leeLuc"]
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/02_vars
-[submodule "hamzahMohammad"]
-	path = hamzahMohammad
-	url = https://github.com/ForestDweller014/hamzahMohammad
 [submodule "misquittaKri"]
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/misquittaKri.git

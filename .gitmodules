@@ -103,3 +103,6 @@
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/SystemsRepo.git
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/02_vars

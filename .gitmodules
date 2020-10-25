@@ -64,9 +64,6 @@
 [submodule "hirotaEis"]
 	path = hirotaEis
 	url = https://github.com/ei5uke/02_vars.git
-[submodule "zhouKel"]
-	path = zhouKel
-	url = https://github.com/KellyZhou223/02vars.git
 [submodule "nathMic"]
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_vars02.git

@@ -94,9 +94,6 @@
 [submodule "misquittaKri"]
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/misquittaKri.git
-[submodule "huLuc"]
-	path = huLuc
-	url = https://github.com/lhu10/SystemsRepo.git
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/02_vars
@@ -112,3 +109,6 @@
 [submodule "zhouKel"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/02vars
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/SystemsRepo.git
